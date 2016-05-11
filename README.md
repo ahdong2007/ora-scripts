@@ -1,1 +1,1 @@
-# ora-scripts
+# useful oracle scripts
