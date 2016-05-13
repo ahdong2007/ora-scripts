@@ -1,1 +1,1 @@
-# useful oracle scripts
+# useful oracle scripts for daily support.
