@@ -1,6 +1,6 @@
 
 REM
-REM list users granted with DBA/SYSDBA/SYSOPER privs
+REM list users granted with DBA/SYSDBA/SYSOPER/SYSASM privs
 REM 06/06/2016 Mason Hua
 REM
 select grantee, granted_role as granted
