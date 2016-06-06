@@ -1,4 +1,8 @@
 
+REM
+REM report user info
+REM 06/06/2016 Mason Hua
+REM
 
 REM report everything about a user
 REM check default tablespace
